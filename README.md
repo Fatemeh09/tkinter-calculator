@@ -36,7 +36,7 @@ Working on this project helped me improve my undrestanding of:
 
 -------
 
-![Calculator Preview](simple_calculator.JPG)
+![Calculator Preview](simple_caculator.JPG)
 
 -------
 
