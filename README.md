@@ -28,16 +28,23 @@ Working on this project helped me improve my undrestanding of:
 - Handling errors such as division by zero
 - Organizing code in a clean and readable way
 
-
 -------
 
 ## Technologies used
 - **Python**
 - **Tkinter GUI Library**
 
+-------
+
+![Calculator Preview](simple_calculator.JPG)
+
+-------
+
 ## Author
 **Fatemeh**
 *Python & AI learner*
+
+
 
 
 
