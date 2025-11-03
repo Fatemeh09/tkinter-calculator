@@ -1,5 +1,9 @@
+# Simple calculator using Python & Tkinter 
+# Supports +, -, *, /, % operation with error handling 
+
 import tkinter as tk
 from tkinter import *
+
 win=tk.Tk()
 win.title("simple calculator")
 win.geometry("570x600+100+200")
@@ -60,3 +64,4 @@ Button(win,text="=",width=5,height=3,font=("arial",30,"bold"),bd=1,fg="#fff",bg=
 
 
 win.mainloop()
+
